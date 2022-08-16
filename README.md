@@ -1,11 +1,11 @@
 # 🧠Jogo da memória
-#### 📚 Atividade do portfório para o meu curso de Sistemas de Informação, recriando o jogo da memória.
+#### 📚 Atividade do portfório para o meu curso de Sistemas de Informação, fazendo a recriação do jogo da memória.
 #### ✔️ Status: Concluído
 #### 🔴 Observação: Ainda estou pensando em melhorar o projeto quando tiver mais conhecimentos.
 =========================================================================================
 ## :joystick:Sobre o jogo
 Um jogo clássico e simples, onde você deve juntar dois par de cartas idênticas até concluir o jogo com todos as cartas identificadas. Na parte de desing das cartas 
-foi utilizado como base quatro jogos que gosto bastante: Super Mario, Sonic, Pac-men e Mega-men. 
+foi utilizado como base quatro jogos que eu gosto bastante: Super Mario, Sonic, Pac-men e Mega-men. 
 
 Para entrar no jogo é só colocar seu nome e apertar play para começar o seu teste de memória.
 
@@ -17,7 +17,7 @@ Para entrar no jogo é só colocar seu nome e apertar play para começar o seu t
 ### O seu desafio é você conseguir isso no menor tempo possível. 
 
 ## 🚀Tecnologias 
-Para a criação do jogo foi utilizador as tecnologias:
+Para a criação do jogo foi utilizado as tecnologias:
 * **JavaScprit**
 * **CSS**
 * **HTML**
