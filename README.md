@@ -18,7 +18,7 @@ Para entrar no jogo é só colocar seu nome e apertar play para começar o seu t
 
 ## 🚀Tecnologias 
 Para a criação do jogo foi utilizado as tecnologias:
-* **JavaScprit**
+* **JavaScript**
 * **CSS**
 * **HTML**
 * **IDE VisualCode**
